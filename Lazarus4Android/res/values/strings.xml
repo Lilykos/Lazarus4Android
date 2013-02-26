@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lazarus4Android</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_gps">GPSActivity</string>
+    <string name="title_activity_battery">BatteryActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="gpsString">GPS Disabled</string>
+    <string name="gpsLatitude">GPS Latitude is: Disabled</string>
+    <string name="gpsLongitude">GPS Longitude is: Disabled</string>
+    <string name="gpsMenu">L4A: GPS Info</string>
+    <string name="name">Lazarus4Android</string>
+    <string name="batteryMenu">L4A: Battery Info</string>
+    <string name="batteryEnabled">Battery Disabled</string>
+    <string name="batteryLevel">Battery Level is: Disabled</string>
+    <string name="batteryState">Charging state is: Disabled</string>
+    <string name="generalInfo">L4A: General Info</string>
+    <string name="sendDataEnabled">Send Data Disabled</string>
+    <string name="model">Android Model is: Disabled</string>
+    <string name="sdk">SDK is: Disabled</string>
+    <string name="manufacturer">Manufacturer is: Disabled</string>
+    <string name="title_activity_main_activity33">MainActivity33</string>
+
+</resources>

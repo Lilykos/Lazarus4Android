@@ -78,13 +78,13 @@ public class Memory extends Application {
 	private int time;
 	
 	@Override
-    public void onCreate() {
-        super.onCreate();
-        getWebServiceProperties();
+        public void onCreate() {
+            super.onCreate();
+            getWebServiceProperties();
         
-        TelephonyManager telephonyManager = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
-        imei = telephonyManager.getDeviceId();
-    }
+            TelephonyManager telephonyManager = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
+            imei = telephonyManager.getDeviceId();
+        }
 	
 	
 	

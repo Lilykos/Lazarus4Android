@@ -24,7 +24,7 @@ import android.os.BatteryManager;
 import android.telephony.TelephonyManager;
 import android.util.Log;
 import android.widget.TextView;
-
+ 
 public class Memory extends Application {
 	
 	// SYNCHRONIZATION LOCKS //
